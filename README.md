@@ -12,3 +12,4 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by jojoFord
+### ©️2020 Run Buddy, Inc 
